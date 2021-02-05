@@ -2,7 +2,7 @@ package com.genetics.ecommerce.controller;
 
 import com.genetics.ecommerce.model.Customer;
 import com.genetics.ecommerce.repository.CustomerRepository;
-import jdk.nashorn.internal.objects.annotations.Getter;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
